@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sanjay
+### Hi there 👋, I'm Sanjay
 #### I am a Full Stack Developer
 
 - 🔭 I’m currently working on MERN Stack Applications
