@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sanjay
 #### I am a Full Stack Developer
 
-- 🔭 I’m currently working on MERN Stack 
+- 🔭 I’m currently working on MERN Stack Applications
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on MERN stack projects 
 - 💬 Ask me about Javascript 
