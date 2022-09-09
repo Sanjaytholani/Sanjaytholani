@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on MERN stack projects 
 - 💬 Ask me about Javascript 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjay-tholani-m-896392184/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjaytholani/)
 - 🌟 Check out my [portoflio](https://sanjaytholanim.netlify.app/)
 
 ### Technologies I use:
