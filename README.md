@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on MERN stack projects 
 - 💬 Ask me about Javascript 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjaytholani/)
-- 🌟 Check out my [portoflio](https://sanjaytholanim.netlify.app/)
+- 🌟 Check out my [portoflio](https://sanjaytholani.netlify.app/)
 
 ### Technologies I use:
 
